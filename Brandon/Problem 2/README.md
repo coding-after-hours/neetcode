@@ -1,7 +1,0 @@
-# [Problem]
-
-## Explanation
-
-## Examples
-
-## Contraints
