@@ -1,0 +1,23 @@
+{
+  "name": "neetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-after-hours/neetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-after-hours/neetcode/issues"
+  },
+  "homepage": "https://github.com/coding-after-hours/neetcode#readme",
+  "dependencies": {
+    "vitest": "^0.32.2"
+  }
+}
